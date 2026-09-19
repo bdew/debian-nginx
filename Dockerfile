@@ -1,4 +1,4 @@
-FROM debian:13.5-slim
+FROM debian:13.7-slim
 
 VOLUME /var/www/html
 
